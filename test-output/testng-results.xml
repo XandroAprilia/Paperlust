@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125803" started-at="2022-03-23T21:31:34 ICT" finished-at="2022-03-23T21:33:40 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125803" started-at="2022-03-23T21:31:34 ICT" finished-at="2022-03-23T21:33:40 ICT">
+      <class name="runTest.RunnerPaperlust">
+        <test-method status="PASS" signature="createChromeDriver()[pri:0, instance:runTest.RunnerPaperlust@a74868d]" name="createChromeDriver" is-config="true" duration-ms="92384" started-at="2022-03-23T21:31:34 ICT" finished-at="2022-03-23T21:33:06 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createChromeDriver -->
+        <test-method status="PASS" signature="RunnerTest2()[pri:2, instance:runTest.RunnerPaperlust@a74868d]" name="RunnerTest2" duration-ms="32085" started-at="2022-03-23T21:33:07 ICT" finished-at="2022-03-23T21:33:39 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunnerTest2 -->
+        <test-method status="PASS" signature="quitChromeDriver()[pri:0, instance:runTest.RunnerPaperlust@a74868d]" name="quitChromeDriver" is-config="true" duration-ms="1164" started-at="2022-03-23T21:33:39 ICT" finished-at="2022-03-23T21:33:40 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitChromeDriver -->
+      </class> <!-- runTest.RunnerPaperlust -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
