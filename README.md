@@ -15,7 +15,7 @@ src/test/java
 ```
 5. Cari File dengan Nama RunnerPaperlust.java
 6. Open File
-7. Klik Run
+7. Klik Tulisa "Run" pada File RunnerPaperlust.java
 
 ## Packages
 
